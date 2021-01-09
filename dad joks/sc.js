@@ -12,7 +12,7 @@ const jokeEl=document.getElementById("joke")
 //         jokeEl.innerHTML=data;
 //     })
 // }
-// by async awai
+// by async await
 async function gene()
 {
     const config=
